@@ -1,1 +1,1 @@
-today is the day the Lord has mad
+today is the day the Lord has made and we are to be happy
