@@ -1,0 +1,8 @@
+* CloudFormation – No additional cost.
+* CodeBuild – CodeBuild charges per minute used. It comes with 100 minutes per month at no charge. For a simple execution of this demo, you can stay within the limits of the AWS Free Tier – please read about the Free Tier here. For more information, see AWS CodeBuild pricing.
+* CodeCommit – If used on a small project of less than six users, there’s no additional cost. See AWS CodeCommit Pricing for more information.
+* CodeDeploy – No additional cost.
+* CodePipeline – $1 a month per pipeline unless you’re using it as part of the free tier. For more information, see AWS CodePipeline pricing.
+* EC2 – There are a number of Instance types and pricing options. See Amazon EC2 Pricing for more information.
+* IAM – No additional cost.
+* SNS – Considering you likely won’t have over 1 million Amazon SNS requests for this particular solution, there’s no cost. For more information, see AWS SNS Pricing.
